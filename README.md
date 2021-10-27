@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Kique a Young developer focused on making bots for multiple platforms
+### Hi there 👋, I'm Kique 
+
+
+### A Young developer focused on making bots for multiple platforms
 
 - 🔭 I know a little bit about C# and Py, currently dominating web development
 - 📕 I like to learn new things, I'm learning everything that is within my reach.
@@ -38,19 +41,19 @@
 
 ### Try out some of my bots:
 
-[<img align="left" alt="kiki" width="26px" src="https://cdn.discordapp.com/avatars/813800050987106326/d5247ad65dc1f765818522c0f95b2a6a.webp?size=96" />][kiki]
-[<img align="left" alt="bottle" width="26px" src="https://cdn.discordapp.com/avatars/825148859235827732/da9eac8ba5754c0f284885a2623549eb.webp?size=96" />][bottle]
-[<img align="left" alt="senko" width="26px" src="https://cdn.discordapp.com/avatars/818887799104471100/616c73810417a7f8a1ea73cdb7904f21.webp?size=96" />][senko]
+
+[![Discord Bots](https://top.gg/api/widget/upvotes/825148859235827732.svg)](https://top.gg/bot/825148859235827732)
+[![Discord Bots](https://top.gg/api/widget/upvotes/818887799104471100.svg)](https://top.gg/bot/818887799104471100)
+
 
 <br />
 <br />
 
----
 
 
 
 [discord]: https://discord.gg/TWvYBAUFK9
 [youtube]: https://www.youtube.com/channel/UCoDn2V0R6V6vuH2LyJrOT9Q
 [kiki]: https://discord.com/oauth2/authorize?client_id=813800050987106326&permissions=8&scope=bot
-[senko]: https://discord.com/api/oauth2/authorize?client_id=818887799104471100&permissions=137475935824&scope=bot
+[senko]: https://top.gg/bot/818887799104471100
 [bottle]: https://top.gg/bot/825148859235827732

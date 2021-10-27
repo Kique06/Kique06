@@ -5,7 +5,9 @@
 
 - 🔭 I know a little bit about C# and Py, currently dominating web development
 - 📕 I like to learn new things, I'm learning everything that is within my reach.
+- 💬 I speak Portuguese, English and Spanish. I really enjoy learning new languages.
 - 🟢 Currently working on an android app
+
 
 ### Contact me:
 

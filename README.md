@@ -7,6 +7,7 @@
 - 📕 I like to learn new things, I'm learning everything that is within my reach.
 - 💬 I speak Portuguese, English and Spanish. I really enjoy learning new languages.
 - 🟢 Currently working on an android app
+- 🎵 learning how to "hyperpop"
 
 
 ### Contact me:

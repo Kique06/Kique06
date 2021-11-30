@@ -53,7 +53,7 @@
 
 
 
-[discord]: https://discord.gg/TWvYBAUFK9
+[discord]: https://discord.gg/MgAhU9EXSH
 [youtube]: https://www.youtube.com/channel/UCoDn2V0R6V6vuH2LyJrOT9Q
 [kiki]: https://discord.com/oauth2/authorize?client_id=813800050987106326&permissions=8&scope=bot
 [senko]: https://top.gg/bot/818887799104471100

@@ -35,8 +35,8 @@
 
 ### Stay chill
 
-- [My lo-fi playlist](https://www.youtube.com/playlist?list=PL-b53C0P5XseglrIeDlYYCnPMq8e3yK_m)
-- [Humm Glitchcore playlist? Yes](https://www.youtube.com/playlist?list=PL-b53C0P5Xsd_nD9Sw1Kf06rgbXPYu192)
+- [My lo-fi playlist](https://open.spotify.com/playlist/1AVlLb0sqRFtTH7iQQWRai?si=15782a6aa00b46a8)
+- [Humm Glitchcore playlist? Yes](https://open.spotify.com/playlist/0lHrrtCsl6XtdbQkRC1DS6?si=40578fc670ee4f49)
 
 
 
